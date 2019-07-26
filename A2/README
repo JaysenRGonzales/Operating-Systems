@@ -1,0 +1,7 @@
+Write a small shell - called shhh - that has the 
+following capabilities:
+
+1. Can execute a command with the accompanying arguments.  
+2. Recognize multiple pipe requests and handle them.  
+3. Recognize redirection requests and handle them.  
+4. Type "exit" to quit the shhh shell.  
